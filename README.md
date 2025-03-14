@@ -3,7 +3,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-@bens0m-blue.svg)](https://t.me/bens0m) 
 [![Email](https://img.shields.io/badge/Email-skviil.93@gmail.com-orange.svg)](mailto:skvill.93@gmail.com)
 
-📞 **Телефон**: +7 (963) 838-15-14  
 📧 **Email**: skvill.93@gmail.com  
 📖 **Портфолио**: [GitHub](https://github.com/Rersome)
 
