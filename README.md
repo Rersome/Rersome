@@ -4,7 +4,6 @@
 [![Email](https://img.shields.io/badge/Email-skviil.93@gmail.com-orange.svg)](mailto:skvill.93@gmail.com)
 
 📧 **Email**: skvill.93@gmail.com  
-📖 **Портфолио**: [GitHub](https://github.com/Rersome)
 
 ---
 
