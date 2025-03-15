@@ -3,10 +3,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-@bens0m-blue.svg)](https://t.me/bens0m) 
 [![Email](https://img.shields.io/badge/Email-skviil.93@gmail.com-orange.svg)](mailto:skvill.93@gmail.com)
 
-📧 **Email**: skvill.93@gmail.com  
-
----
-
 ## 👨‍💻 Android-разработчик
 
 ### 🔑 Ключевые компетенции
